@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<date d="45066">
+		<ausdollar>53.0118</ausdollar>
+		<euro>86.277</euro>
+		<dollar>79.9093</dollar>
+	</date>
+	<date d="45065">
+		<ausdollar>53.2003</ausdollar>
+		<euro>86.4964</euro>
+		<dollar>80.0366</dollar>
+	</date>
+	<date d="45064">
+		<ausdollar>53.6194</ausdollar>
+		<euro>87.5749</euro>
+		<dollar>80.7642</dollar>
+	</date>
+	<date d="45063">
+		<ausdollar>53.3785</ausdollar>
+		<euro>87.1619</euro>
+		<dollar>79.9798</dollar>
+	</date>
+	<date d="45062">
+		<ausdollar>52.8549</ausdollar>
+		<euro>86.0862</euro>
+		<dollar>79.1004</dollar>
+	</date>
+	<date d="45059">
+		<ausdollar>51.6495</ausdollar>
+		<euro>84.25</euro>
+		<dollar>77.2041</dollar>
+	</date>
+	<date d="45058">
+		<ausdollar>51.4118</ausdollar>
+		<euro>82.8877</euro>
+		<dollar>75.8846</dollar>
+	</date>
+	<date d="45057">
+		<ausdollar>51.8751</ausdollar>
+		<euro>84.1498</euro>
+		<dollar>76.6929</dollar>
+	</date>
+	<date d="45052">
+		<ausdollar>51.7387</ausdollar>
+		<euro>84.9073</euro>
+		<dollar>76.8207</dollar>
+	</date>
+	<date d="45051">
+		<ausdollar>52.5927</ausdollar>
+		<euro>86.9986</euro>
+		<dollar>78.6139</dollar>
+	</date>
+	<date d="45050">
+		<ausdollar>52.8503</ausdollar>
+		<euro>87.575</euro>
+		<dollar>79.3071</dollar>
+	</date>
+	<date d="45049">
+		<ausdollar>53.6138</ausdollar>
+		<euro>87.6556</euro>
+		<dollar>79.9609</dollar>
+	</date>
+	<date d="45045">
+		<ausdollar>53.2166</ausdollar>
+		<euro>88.3712</euro>
+		<dollar>80.5093</dollar>
+	</date>
+	<date d="45044">
+		<ausdollar>54.0499</ausdollar>
+		<euro>90.2023</euro>
+		<dollar>81.5601</dollar>
+	</date>
+	<date d="45043">
+		<ausdollar>53.9475</ausdollar>
+		<euro>90.1436</euro>
+		<dollar>81.6274</dollar>
+	</date>
+	<date d="45042">
+		<ausdollar>54.4427</ausdollar>
+		<euro>90.0332</euro>
+		<dollar>81.5499</dollar>
+	</date>
+	<date d="45041">
+		<ausdollar>54.2589</ausdollar>
+		<euro>89.4589</euro>
+		<dollar>81.2745</dollar>
+	</date>
+	<date d="45038">
+		<ausdollar>54.661</ausdollar>
+		<euro>89.3495</euro>
+		<dollar>81.4863</dollar>
+	</date>
+</root>

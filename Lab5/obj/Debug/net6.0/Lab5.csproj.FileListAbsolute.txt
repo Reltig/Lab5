@@ -1,0 +1,15 @@
+D:\c# projects\.NET Projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.exe
+D:\c# projects\.NET Projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.deps.json
+D:\c# projects\.NET Projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.runtimeconfig.json
+D:\c# projects\.NET Projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.dll
+D:\c# projects\.NET Projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.pdb
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.AssemblyReference.cache
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfoInputs.cache
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfo.cs
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.CoreCompileInputs.cache
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.dll
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\refint\Lab5.dll
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.pdb
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.genruntimeconfig.cache
+D:\c# projects\.NET Projects\Lab5\Lab5\obj\Debug\net6.0\ref\Lab5.dll
